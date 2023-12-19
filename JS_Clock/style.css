@@ -1,0 +1,27 @@
+
+.main{
+    max-width: 1120px;
+    height: auto;
+    margin: 50px auto;
+    
+   
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    
+    
+    text-align: center;
+   
+    
+}
+
+#time{
+    font-size: 90px;
+    color: black;
+}
+#date{
+    font-size: 40px;
+    color: black;
+}
